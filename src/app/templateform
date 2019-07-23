@@ -1,0 +1,7 @@
+export class Templateform
+{
+userName : any;
+email: any;
+nickName: any;
+password: any;
+}
